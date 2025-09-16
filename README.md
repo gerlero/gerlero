@@ -8,7 +8,7 @@
 - 📦 [`gerlero/styro`](https://github.com/gerlero/styro): OpenFOAM package manager
 - ⚙️ [`gerlero/setup-openfoam`](https://github.com/gerlero/setup-openfoam): GitHub Action for installing OpenFOAM
 - 🐳 [`gerlero/docker-openfoam`](https://github.com/gerlero/docker-openfoam): Docker images of OpenFOAM
-- 🍻 [`gerlero/homebrew-openfoam`](https://github.com/gerlero/homebrew-openfoam): Custom Homebrew tap for OpenFOAM
+- 🚰 [`gerlero/homebrew-openfoam`](https://github.com/gerlero/homebrew-openfoam): Custom Homebrew tap for OpenFOAM
 - 💧 [`gerlero/porousMicroTransport`](https://github.com/gerlero/porousMicroTransport): Porous media flow and transport modeling in OpenFOAM
 - 🧪 [`gerlero/reagency`](https://github.com/gerlero/reagency): Reaction library for OpenFOAM
 
@@ -27,7 +27,7 @@
 <summary><b>Other useful GitHub Actions</b></summary>
 
 - 💾 [`gerlero/apt-install`](https://github.com/gerlero/apt-install): Install and cache APT packages
-- 🍺 [`gerlero/brew-install`](https://github.com/gerlero/brew-install): Install and cache Homebrew packages
+- 🍻 [`gerlero/brew-install`](https://github.com/gerlero/brew-install): Install and cache Homebrew packages
 - ➕ [`gerlero/add-apt-repository`](https://github.com/gerlero/add-apt-repository): Add APT repositories
 
 </details>
@@ -35,7 +35,8 @@
 <details>
 <summary><b>Other useful Python libraries</b></summary>
 
-- 🪄 [`gerlero/parametrix`](https://github.com/gerlero/parametrix): Computed parameters for bare JAX
+- 🎯 [`gerlero/mutax`](https://github.com/gerlero/mutax): SciPy-like differential evolution optimization for JAX
+- 🪄 [`gerlero/parametrix`](https://github.com/gerlero/parametrix): Computed parameters for JAX
 - 📚 [`gerlero/multicollections`](https://github.com/gerlero/multicollections): Fully generic MultiDict implementation
 
 </details>
