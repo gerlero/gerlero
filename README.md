@@ -36,7 +36,7 @@
 <summary><b>Other useful Python libraries</b></summary>
 
 - 🎯 [`gerlero/mutax`](https://github.com/gerlero/mutax): SciPy-like differential evolution optimization for JAX
-- ⚡ [`gerlero/parajax`](https://github.com/gerlero/parajax): Automagic parallelization of calls to JAX-based functions
+- ⚡ [`gerlero/parajax`](https://github.com/gerlero/parajax): Automatic parallelization of calls to JAX-based functions
 - 🪄 [`gerlero/parametrix`](https://github.com/gerlero/parametrix): Computed parameters for JAX
 - 📚 [`gerlero/multicollections`](https://github.com/gerlero/multicollections): Fully generic MultiDict implementation
 
